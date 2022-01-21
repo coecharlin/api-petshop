@@ -1,0 +1,11 @@
+{
+    "mysql": {
+        "banco-de-dados": "bdpetshop",
+        "usuario": "charlesandrade",
+        "senha": "@Charles01",
+        "host": "192.168.254.239"
+    },
+    "api": {
+        "porta": 3000
+    }
+}
